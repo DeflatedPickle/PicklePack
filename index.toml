@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/achoo.pw.toml"
+hash = "1effe459d8eb0f9c047a4993d5118b1d1e8a1a0e44de27dfacbd399f1d13d442"
+metafile = true
+
+[[files]]
+file = "mods/armouredanimals.pw.toml"
+hash = "5c6330ae292d667cec38b35a8047b566533cb2ffa99d6900c506320cd49ffd98"
+metafile = true
+
+[[files]]
+file = "mods/axolotlhats.pw.toml"
+hash = "99d608b52d16d24d67fe2e268f60b55eaef2faa461f7eb9d9bcabbf3d6098624"
+metafile = true
+
+[[files]]
+file = "mods/boilingwater.pw.toml"
+hash = "0636d032f978018ceffb9979ccf3b3d5b66059ae9820caf647d212e5943a9895"
+metafile = true
+
+[[files]]
+file = "mods/closequartersconcoctions.pw.toml"
+hash = "10936a808d1f28c7f82c400fed289125850127e1c766e9f2e1b9c882a6c55b6b"
+metafile = true
+
+[[files]]
+file = "mods/combustibleentities.pw.toml"
+hash = "f36a752cabf295872cc58f54eadcd6c7b66366b98742a77fbbcc6b151d9b7815"
+metafile = true
+
+[[files]]
+file = "mods/coverthosethighs.pw.toml"
+hash = "237bc1dd91c1457a25132bb20c4d8746fc63399f32d629f684ad435a4bab44b4"
+metafile = true
+
+[[files]]
+file = "mods/entityfirespread.pw.toml"
+hash = "b1e3376bdd9c92978510ce03028e9e5b5a734195e8c7c11b64539f0917662a6a"
+metafile = true
+
+[[files]]
+file = "mods/extendedhotbarrebared.pw.toml"
+hash = "f915ea45d13df6a1f008bc52d6f7ec14be16304521331d5958e337784f3412fd"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
+metafile = true
+
+[[files]]
+file = "mods/heatfromfire.pw.toml"
+hash = "57e5599b537afc3eba465078839e889a977e60ae45fdb8d325917f24e3a348be"
+metafile = true
+
+[[files]]
+file = "mods/hungrypigs.pw.toml"
+hash = "18039439cec5509e97e3208936b432ad63798f7382394325aef38daf83db43d9"
+metafile = true
+
+[[files]]
+file = "mods/kanzashi.pw.toml"
+hash = "66233370e4e7f2b606c8bbec63f0d1553a70138451d49cbd4a50a164aa044906"
+metafile = true
+
+[[files]]
+file = "mods/methodicalmilking.pw.toml"
+hash = "745104408999ecf667af1fcd62281dc6050244b1c0c863f8e8e03544a15aa0be"
+metafile = true
+
+[[files]]
+file = "mods/mobcorpses.pw.toml"
+hash = "b51aecf1a0091fc2773efdddf7d081e577d367336e24f094b283ddc790b0c596"
+metafile = true
+
+[[files]]
+file = "mods/pluckablearrows.pw.toml"
+hash = "df57d6e0eba554f8b85f617deb373ec0ff9962836b1c8bee5c2ebf783cf2c0d6"
+metafile = true
+
+[[files]]
+file = "mods/popenchanttagsresuscitated.pw.toml"
+hash = "88b235f7ab41e57f874cbcb2d106b445ace0018cf9dc43bbe37b1b2d94133369"
+metafile = true
+
+[[files]]
+file = "mods/restock.pw.toml"
+hash = "671fb0e0001545276eca38847c8c85545616cd52369d08d287c4358f777d0d2c"
+metafile = true
+
+[[files]]
+file = "mods/smarthudreheated.pw.toml"
+hash = "afe8d01a8cdaabdb5756dd82099ddef71c151a62d33900533672ffcb46d861bf"
+metafile = true
+
+[[files]]
+file = "mods/squidmilk.pw.toml"
+hash = "4077f29d73dd6c9d2d9d227fd5e3450f09328257f1fd1aaa1e80d201537fd7e8"
+metafile = true
+
+[[files]]
+file = "mods/thisisfine.pw.toml"
+hash = "0b9b0e23b7aa6e76e730535e08ef9f3534f98258a540bf6ffed96512a3ecd7c8"
+metafile = true
+
+[[files]]
+file = "mods/usabledragonsbreath.pw.toml"
+hash = "9c1a791da136d1b5f124192c20a0506677a92095bccbfdd3c5a9c714a7e698da"
+metafile = true
+
+[[files]]
+file = "mods/variableknockback.pw.toml"
+hash = "019569586b71410218f62aba139d4df50500c03816d794fe79d57ca39e71e6a4"
+metafile = true

@@ -1,0 +1,14 @@
+name = "SquidMilk"
+filename = "squidmilk-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXT78VSN/versions/3.0.0/squidmilk-3.0.0.jar"
+hash-format = "sha1"
+hash = "de98af5ad2ddffb3d57cd7e858b5b2ab0a540ea5"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "kXT78VSN"
+version = "W39YtZRv"

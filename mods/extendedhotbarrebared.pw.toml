@@ -1,0 +1,14 @@
+name = "ExtendedHotbarRebared"
+filename = "extendedhotbar-3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T9OMC6y2/versions/3.0.1/extendedhotbar-3.0.1.jar"
+hash-format = "sha1"
+hash = "d7c2e9aa1346fecd207a83753b0954416655439d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "T9OMC6y2"
+version = "dnUw3hEU"

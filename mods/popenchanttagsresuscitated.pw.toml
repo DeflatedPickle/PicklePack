@@ -1,0 +1,14 @@
+name = "PopEnchantTagsResuscitated"
+filename = "popenchanttags-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZxZ3GiUv/versions/1.1.0/popenchanttags-1.1.0.jar"
+hash-format = "sha1"
+hash = "ab2cc271714ef3bf73ed956f2db4e29571d8abd4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ZxZ3GiUv"
+version = "o7o8hLi0"

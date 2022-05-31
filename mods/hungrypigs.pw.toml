@@ -1,0 +1,14 @@
+name = "HungryPigs"
+filename = "hungrypigs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dny9C9vB/versions/1.0.0/hungrypigs-1.0.0.jar"
+hash-format = "sha1"
+hash = "34c130b18c1c2631c2ed6381658fcc74c632ab38"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "dny9C9vB"
+version = "kW2KOSGk"

@@ -1,0 +1,14 @@
+name = "VariableKnockback"
+filename = "variableknockback-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5NvOCcKm/versions/1.0.0/variableknockback-1.0.0.jar"
+hash-format = "sha1"
+hash = "a911feac3a59bc36c6cc6f4f388cc031fc8fbd67"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "5NvOCcKm"
+version = "IyRu7Z5Y"

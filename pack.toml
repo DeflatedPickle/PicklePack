@@ -1,0 +1,13 @@
+name = "Pickle Pack"
+author = "DeflatedPickle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a6682d5a47320adb9763a12ac94813fc66bd2f18629ee4d3e26ca2800290c573"
+
+[versions]
+minecraft = "1.18.1"
+quilt = "0.16.1"

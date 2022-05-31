@@ -1,0 +1,14 @@
+name = "EntityFireSpread"
+filename = "entityfirespread-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ON1ttjC6/versions/1.0.1/entityfirespread-1.0.1.jar"
+hash-format = "sha1"
+hash = "f723fa62505d3141d660464e07b224a64bfb8c43"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ON1ttjC6"
+version = "sPtgFK7e"

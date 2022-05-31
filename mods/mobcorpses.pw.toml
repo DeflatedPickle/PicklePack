@@ -1,0 +1,14 @@
+name = "MobCorpses"
+filename = "mobcorpses-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRCKClUT/versions/1.1.1/mobcorpses-1.1.1.jar"
+hash-format = "sha1"
+hash = "4836a28086a6524661a46c79995da356117d062a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "lRCKClUT"
+version = "uOzG6pQC"

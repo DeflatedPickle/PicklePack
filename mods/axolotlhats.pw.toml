@@ -1,0 +1,14 @@
+name = "AxolotlHats"
+filename = "axolotlhats-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WeDx7fzm/versions/1.0.1/axolotlhats-1.0.1.jar"
+hash-format = "sha1"
+hash = "69e37f8100a3cb73762cc98c39ce0e59bdd7d7c8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "WeDx7fzm"
+version = "Jc438R7N"

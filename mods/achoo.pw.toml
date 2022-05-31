@@ -1,0 +1,14 @@
+name = "Achoo"
+filename = "achoo-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M2gyhpyj/versions/1.0.0/achoo-1.0.0.jar"
+hash-format = "sha1"
+hash = "2bb980811bc9331e1e5f6a0542a861f9ac1ac7a5"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "M2gyhpyj"
+version = "kack6f7s"

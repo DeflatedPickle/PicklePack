@@ -1,0 +1,14 @@
+name = "MethodicalMilking"
+filename = "methodicalmilking-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vzER2qSC/versions/1.0.0/methodicalmilking-1.0.0.jar"
+hash-format = "sha1"
+hash = "81de2b127de3406c380bbb4d6f8b17a1236e34bd"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vzER2qSC"
+version = "tM22Bsva"

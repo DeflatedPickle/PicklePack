@@ -1,0 +1,14 @@
+name = "BoilingWater"
+filename = "boilingwater-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4OUL2qxC/versions/1.1.2/boilingwater-1.1.2.jar"
+hash-format = "sha1"
+hash = "4d0060c24c9a759a7edac4f796498ca81604e1aa"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "4OUL2qxC"
+version = "Q7PsmC5u"

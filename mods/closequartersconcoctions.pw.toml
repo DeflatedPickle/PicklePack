@@ -1,0 +1,14 @@
+name = "CloseQuartersConcoctions"
+filename = "cqc-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ys2Li3Zo/versions/1.0.0/cqc-1.0.0.jar"
+hash-format = "sha1"
+hash = "908ba81d5d07f661c90ea6f702172b85865d6222"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ys2Li3Zo"
+version = "FwpLrNtv"

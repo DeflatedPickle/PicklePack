@@ -1,0 +1,14 @@
+name = "ArmouredAnimals"
+filename = "armouredanimals-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tP90ZTmG/versions/1.0.0/armouredanimals-1.0.0.jar"
+hash-format = "sha1"
+hash = "a1298da740eb58e1e5ad201e78a1e4a7d68a88de"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "tP90ZTmG"
+version = "1J73Os39"

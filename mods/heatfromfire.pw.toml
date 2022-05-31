@@ -1,0 +1,14 @@
+name = "HeatFromFire"
+filename = "heatfromfire-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RXEjW5VP/versions/1.0.0/heatfromfire-1.0.0.jar"
+hash-format = "sha1"
+hash = "e5642e3a2fa298d3e510e54d37b8f739ef35017b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RXEjW5VP"
+version = "CKYRCzTP"

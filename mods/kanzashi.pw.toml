@@ -1,0 +1,14 @@
+name = "Kanzashi"
+filename = "kanzashi-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pxrSeTAq/versions/1.0.4/kanzashi-1.0.4.jar"
+hash-format = "sha1"
+hash = "0d2764ad207b151fa6cfe21a84db00b09b4d8d5e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "pxrSeTAq"
+version = "KIvhqD9G"
